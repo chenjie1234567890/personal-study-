@@ -17,5 +17,5 @@
 3. 计算横坐标和纵坐标数组的中位数。
 4. 求n个居民点到超市距离总和的最小值，并输出此值，并以图示的方式显示居民点与超市的位置分布。
 ### 结果截图: ###
-![1]("https://raw.githubusercontent.com/moujie1998/personal-study-/master/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C/%E8%B6%85%E5%B8%82%E9%80%89%E5%9D%80/images/images.jpg")
+![1]("images/images.jpg")
 
